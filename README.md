@@ -7,7 +7,7 @@
 <h2 align='center'>Welcome to see my opensource repos!<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 </h2>
 
-- 🎓 I am an undergraduate CS student in SCUT,below are my skills🔥🔥🔥
+- 🎓 I am an undergraduate CS student in <a href="https://en.wikipedia.org/wiki/South_China_University_of_Technology">SCUT</a>,below are my skills🔥🔥🔥
 - #### Languages: <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,typescript,vue,vuetify,vim,go" /></a>
 - #### Functions: <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda,git,gitlab,ubuntu,matlab,vscode,pycharm,pinia,vite,linux" /></a>
 - Any questions? Ask me without hesitation !
