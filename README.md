@@ -43,13 +43,15 @@
  <-Yes,begin when damn finals over...
   
 ### Also, I've try something special like optimization,machine-learning and deeplearning:
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbybye&repo=Resnet50-TinyViT_5M-KD&theme=buefy" />
+<a href="https://github.com/AlexBybye/Resnet50-TinyViT_5M-KD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbybye&repo=Resnet50-TinyViT_5M-KD&theme=automatic" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbybye&repo=Make_Video_Great_Again&theme=buefy" />
+
+<a href="https://github.com/AlexBybye/Make_Video_Great_Again">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbybye&repo=Make_Video_Great_Again&theme=automatic" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbybye&repo=MetaevoBox_EACO&theme=buefy" />
+
+<a href="https://github.com/AlexBybye/MetaevoBox_EACO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbybye&repo=MetaevoBox_EACO&theme=automatic" />
 </a>
 
