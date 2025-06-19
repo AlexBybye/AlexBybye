@@ -37,7 +37,7 @@
 ```
 
 ### Recently, I've finished my front-end learning, and here are my to-do repo:
-<a href="https://github.com/alexbybye/githubtools_summary.com">
+<a href="https://https://github.com/AlexBybye/Githubtools_Summary">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbybye&repo=Githubtools_Summary&theme=buefy" />
 </a>
  <-Yes,begin when damn finals over...
