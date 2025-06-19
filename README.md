@@ -11,7 +11,7 @@
 - #### Languages:<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,typescript,vue,vuetify,vim,go" /></a>
 - #### Functions: <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda,git,gitlab,ubuntu,matlab,vscode,pycharm,pinia,vite,linux" /></a>
 - Any questions? Ask me without hesitation !
-# <a href="https://github.com/alexbybye/alexbybye/issues">click here to discuss now!</a>
+# <a href="https://github.com/alexbybye/alexbybye/issues">Click here to discuss now!</a>
 
   <div align=left>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
@@ -37,7 +37,7 @@
 ```
 
 ### Recently, I've finished my front-end learning, and here are my to-do repo:
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/alexbybye/githubtools_summary.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbybye&repo=Githubtools_Summary&theme=buefy" />
 </a>
  <-Yes,begin when damn finals over...
