@@ -40,8 +40,13 @@
 <a href="https://github.com/AlexBybye/Githubtools_Summary">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbybye&repo=Githubtools_Summary&theme=buefy" />
 </a>
- <-Yes,begin when damn finals over...
-  
+
+ ### ↑ Plan changed:full-stack,begin when September
+ ### ↓ As debut Project began when July
+<a href="https://github.com/AlexBybye/Vue-Story">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbybye&repo=Vue-Story&theme=buefy" />
+</a>
+
 ### Also, I've try something special like optimization,machine-learning and deeplearning:
 <a href="https://github.com/AlexBybye/Resnet50-TinyViT_5M-KD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbybye&repo=Resnet50-TinyViT_5M-KD&theme=automatic" />
