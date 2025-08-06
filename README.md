@@ -41,7 +41,7 @@
 </a>
 
  ### ↑ Plan changed:full-stack,begin when September
- ### ↓ As debut Project began when July
+ ### ↓ As debut Project began when Aug
 <a href="https://github.com/AlexBybye/Vue-Story">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbybye&repo=Vue-Story&theme=slateorange" />
 </a>
