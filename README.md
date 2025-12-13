@@ -36,12 +36,7 @@
 ```
 
 ### Recently, I've finished my front-end learning, and here are my to-do repo:
-<a href="https://github.com/AlexBybye/Githubtools_Summary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbybye&repo=Githubtools_Summary&theme=slateorange" />
-</a>
 
- ### ↑ Plan changed:full-stack,begin when September
- ### ↓ As debut Project began when Aug
 <a href="https://github.com/AlexBybye/AlexBybye.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbybye&repo=AlexBybye.github.io&theme=slateorange" />
 </a>
