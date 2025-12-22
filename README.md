@@ -41,6 +41,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbybye&repo=AlexBybye.github.io&theme=slateorange" />
 </a>
 
+### honored to recommend my first ** FULL_STACK ** repo:
+
+<a href="https://github.com/AlexBybye/Java_MAll">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbybye&repo=Java_MAll&theme=slateorange" />
+</a>
+
 ### Also, I've try something special like optimization,machine-learning and deeplearning:
 <a href="https://github.com/AlexBybye/Resnet50-TinyViT_5M-KD">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alexbybye&repo=Resnet50-TinyViT_5M-KD&theme=tokyonight" />
