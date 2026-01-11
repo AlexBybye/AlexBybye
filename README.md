@@ -27,7 +27,7 @@
                  /___/                /___/       
 </pre>
 <div style="display: flex;">
-<img align="left" width=48% height="307.68px" src="https://raw.githubusercontent.com/AlexBybye/AlexBybye/main/resource/R-C.jpg">
+<img align="left" width=47% height="307.68px" src="https://raw.githubusercontent.com/AlexBybye/AlexBybye/main/resource/R-C.jpg">
 <img align="right" width=48% src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alexbybye&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b&langs_count=7&layout=compact&theme=tokyonight&border_color=61dafb&hide_border=false">
 </div>
 <br clear="both">
