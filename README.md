@@ -6,6 +6,9 @@
 </h1>
 <h2 align='center'>Welcome to see my opensource repos!<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 </h2>
+<h3>
+  <a href= "https://alexbybye.github.io/"> (whisper:)Well, u can also visit my personal blog if u wanna a deeper impression of me... </a>
+</h3>
   
 - 🎓 I am an undergraduate CS student in <a href="https://en.wikipedia.org/wiki/South_China_University_of_Technology">SCUT</a> , below are my skills🔥🔥🔥
 - #### Languages: <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,vue,go,kotlin,matlab" /></a>
