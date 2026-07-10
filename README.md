@@ -11,8 +11,8 @@
 </h3>
   
 - 🎓 I am an undergraduate CS student in <a href="https://en.wikipedia.org/wiki/South_China_University_of_Technology">SCUT</a> , below are my skills🔥🔥🔥
-- #### Languages: <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,vue,go,kotlin,matlab" /></a>
-- #### Functions: <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda,ubuntu,pinia,docker,pytorch,vuetify" /></a>
+- #### Languages: <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,vue,go,kotlin,matlab,less" /></a>
+- #### Functions: <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda,ubuntu,pinia,docker,pytorch,vuetify,vite,webpack" /></a>
 - Any questions? Ask me without hesitation ⬇
 # <a href="https://github.com/alexbybye/alexbybye/issues">Click here to discuss now!</a>
 
