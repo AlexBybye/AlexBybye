@@ -34,7 +34,7 @@
 <img align="right" width=48% src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alexbybye&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b&langs_count=7&layout=compact&theme=tokyonight&border_color=61dafb&hide_border=false">
 </div>
 <br clear="both">
-<img align="center" width="100%"  src="https://github-readme-activity-graph.vercel.app/graph?username=alexbybye&theme=tokyo-night&bg_color=20232a&hide_border=true">
+<img src="https://github-readme-attack-pulse.github-readme-attack-pulse.workers.dev/graph?username=AlexBybye&club=bayern" alt="AlexBybye GitHub attack pulse">
 
 ### honored to recommend my first FULL_STACK repo and an open-sorce repo for SCUTCSer:
 
