@@ -34,7 +34,7 @@
 ###  GitHub Stats
 
       
-<img src="https://github-readme-stats-fast.vercel.app/api?username=alexbybye&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=false" width="100%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=alexbybye&show_icons=true&theme=github_light&border_color=61dafb&hide_border=false" width="100%" />
 
 ###  Activity Pulse
 
